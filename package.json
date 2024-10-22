@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@vercel/node": "^3.2.23",
     "bcrypt": "^5.1.1",
     "chart.js": "^4.4.4",
     "connect-flash": "^0.1.1",
